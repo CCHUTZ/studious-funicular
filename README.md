@@ -22,6 +22,11 @@ Me parece muy útil que explique de forma visual los elementos del código, me h
 
 En esta primer semana llegué hasta la página 45. 
 
-2° Semana 1° de Febrero 
+2° Semana 1° de Febrero  9 de Febrero 
 
+Continuo disfrutando la lectura y la lógica del libro. Creo que cumple bien su proposito de enseñar la lógica computacional a diversos sectores de la ciencia. 
+
+Comencé a hacer anotaciones en Español en los ejercicios encuant los realizo (más que nada una traducción libre de los comentarios y algunos detalles extras que me ayudan a etnender mejor lo que estoy haciendo). 
+
+Esta semana llegué hasta la página 75. 
 
